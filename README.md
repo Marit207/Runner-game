@@ -1,4 +1,4 @@
-# Runner-game
+## Runner game
 
 I made this project in Pygame by following a tutorial (see credits).
 I really like programming as a hobby and I also like playing games. By coding games I'm combining this.
